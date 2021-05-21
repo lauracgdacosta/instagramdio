@@ -115,7 +115,7 @@ body {
     background-image: url('./google.png');
 }
 .app-download:nth-child(2){
-    background-image: url('./aple.png');
+    background-image: url('./apple.png');
 }
 /* midia querie para responsividade*/
 @media (max-width: 1024px) {
